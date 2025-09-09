@@ -1,4 +1,4 @@
 Cosas pendientes:
 - Comprar pan
 - Llamar a Pedro
-- Stash conflicto
+- Stash conflicto en main
